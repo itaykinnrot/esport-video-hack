@@ -1,0 +1,24 @@
+{
+  "name": "esport-video-hack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itaykinnrot/esport-video-hack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itaykinnrot/esport-video-hack/issues"
+  },
+  "homepage": "https://github.com/itaykinnrot/esport-video-hack#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "hls-live-thumbnails": "^1.5.0"
+  }
+}
